@@ -8,4 +8,5 @@ public class BonusService {
             bonus = limit;
         }
         return (int) bonus;
-    
+    }
+}
